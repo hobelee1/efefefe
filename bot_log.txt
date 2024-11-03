@@ -1,0 +1,2 @@
+2024-10-20T06:17:23.190Z: Execute fonksiyonu başlatıldı
+2024-10-20T06:17:23.556Z: Modal gösterildi
